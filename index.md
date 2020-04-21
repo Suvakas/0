@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-https://cdn.discordapp.com/attachments/701059238646251521/702114503726465024/unknown.png
+![News](https://cdn.discordapp.com/attachments/701059238646251521/702114503726465024/unknown.png)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Suvakas/Disc-Server/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
